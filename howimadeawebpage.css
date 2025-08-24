@@ -1,5 +1,5 @@
-@font-face {font-family: 'DeterminationMono'; src: url('DTM.ttf') format('truetype'); background-color:black;
-		   }
+@font-face {font-family: 'DeterminationMono'; src: url('DTM.ttf') format('truetype'); background-color:black;}
+@font-face {font-family: 'Courier2'; src: url('Courier2.ttf') format('truetype'); background-color:black;}
 body {
 	font-family:'DeterminationMono'; color:#b152d1; font-size:25px;
 	background-image: url("img/galaxy.gif"); background-size: 100%;
@@ -38,5 +38,6 @@ a.header {color:black;}
 h1,h2 {margin:10px;}
 
 .true {height:200px; width:400px;}
+
 
 p.home {text-align:right;}
