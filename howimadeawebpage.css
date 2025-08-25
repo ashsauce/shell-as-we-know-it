@@ -1,7 +1,7 @@
 @font-face {font-family: 'DeterminationMono'; src: url('DTM.ttf') format('truetype'); background-color:black;}
 @font-face {font-family: 'Courier2'; src: url('Courier2.ttf') format('truetype'); background-color:black;}
 body {
-	font-family:'DeterminationMono'; color:#b152d1; font-size:25px;
+	font-family:'DeterminationMono'; color:#006eff; font-size:25px;
 	background-image: url("img/galaxy.gif"); background-size: 100%;
 	background-repeat:repeat;
 	margin:0; cursor: url('img/cursor.png'),auto;
@@ -10,11 +10,11 @@ body {
 div.main {
 	background-color:black;
 	width:1000px; margin:auto;
-	border:2px solid #b152d1;
+	border:2px solid #006eff;
 }
 
 div.header {
-	background-color:#b152d1; color:black;
+	background-color:#006eff; color:black;
 	font-size:58px;
 	margin: 10px 0;
 }
@@ -23,13 +23,9 @@ p {margin: 10px;}
 
 .flex {display:flex;}
 
-img {margin:0 20px;	width:60%;}
+img {margin:0 20px;}
 
-.tole {height:250px; width:250px;}
-
-.will {width:265px; height:265px;}
-
-a {text-decoration:none; color:#c9385a;}
+a {text-decoration:none; color:#ffd900;}
 
 a:hover {text-decoration: underline; cursor: url('img/cursor2.png'),auto;}
 
